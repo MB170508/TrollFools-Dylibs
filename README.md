@@ -6,6 +6,8 @@ Expected to work on all iOS versions supported by opa334's [TrollStore](https://
 > There are no IPAs in this repo, only .dylibs, .bundles, and .frameworks. If you are looking for IPAs already injected with mods, please check out [swaggyP36000's TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs?tab=readme-ov-file "swaggyP36000's TrollStore-IPAs")
 
 <!-- GitAds-Verify: L1NI7RJAQ4INZ2W9Y7H2QM5JQJPDIJ84 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=pisknk/trollfools-dylibs@github)](https://gitads.dev/v1/ad-track?source=pisknk/trollfools-dylibs@github)
 
 ## Instructions
 
