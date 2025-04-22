@@ -5,6 +5,8 @@ Expected to work on all iOS versions supported by opa334's [TrollStore](https://
 
 > There are no IPAs in this repo, only .dylibs, .bundles, and .frameworks. If you are looking for IPAs already injected with mods, please check out [swaggyP36000's TrollStore-IPAs](https://github.com/swaggyP36000/TrollStore-IPAs?tab=readme-ov-file "swaggyP36000's TrollStore-IPAs")
 
+<!-- GitAds-Verify: L1NI7RJAQ4INZ2W9Y7H2QM5JQJPDIJ84 -->
+
 ## Instructions
 
 1. Head over to [Releases](https://github.com/pisknk/TrollFools-Mods/releases "Releases") and search for the app you want to mod.
