@@ -1,3 +1,7 @@
+Use TrollFools SLPEdition: https://trollfools.slpmods.net/
+
+Add: https://mb170508.github.io/TrollFools-Dylibs
+
 # TrollFool Mods
 A collection of modified .dylibs, .bundles, and .frameworks to apps installed via AppStore! Inject them using [TrollFools.](https://github.com/Lessica/TrollFools "TrollFools.")
 
