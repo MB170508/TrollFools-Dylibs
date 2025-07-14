@@ -213,7 +213,7 @@
     },
     {
       "name": "FBWolf",
-      "version": "1.0",
+      "version": "2.1",
       "description": "FBWolf for Facebook v479.0",
       "icon_url": "",
       "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v1/FBWolf.zip",
