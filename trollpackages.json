@@ -1,0 +1,248 @@
+{
+  "repository_name": "benzos repo 2",
+  "repository_icon": "",
+  "packages": [
+    {
+      "name": "Adblock",
+      "version": "1.0",
+      "description": "Adblock tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/Adblock.dylib",
+      "selection": "Utilities",
+      "size": "195 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "B612",
+      "version": "1.0",
+      "description": "B612 tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/B612.dylib",
+      "selection": "Utilities",
+      "size": "83 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Beauty Plus",
+      "version": "1.0",
+      "description": "Beauty Plus tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/BeautyPlus.dylib",
+      "selection": "Utilities",
+      "size": "83.1 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "CamScanner",
+      "version": "1.0",
+      "description": "CamScanner tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/CamScanner.dylib",
+      "selection": "Utilities",
+      "size": "130 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Dazz Camera",
+      "version": "1.0",
+      "description": "Dazz Camera tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/DazzCamera.dylib",
+      "selection": "Utilities",
+      "size": "222 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Eevee Spotify",
+      "version": "1.0",
+      "description": "Eevee Spotify tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/Eevee.Spotify.zip",
+      "selection": "Utilities",
+      "size": "4.02 MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "InShot",
+      "version": "1.0",
+      "description": "InShot tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/InShot.dylib",
+      "selection": "Utilities",
+      "size": "82.6 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Kika Keyboard Patch",
+      "version": "1.0",
+      "description": "Kika Keyboard Patch tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/KikaKeyboardPatch.dylib",
+      "selection": "Utilities",
+      "size": "399 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Old Roll",
+      "version": "1.0",
+      "description": "Old Roll tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/OldRoll.dylib",
+      "selection": "Utilities",
+      "size": "163 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "PicsArt",
+      "version": "1.0",
+      "description": "PicsArt tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/PicsArt.dylib",
+      "selection": "Utilities",
+      "size": "89.8 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Regram",
+      "version": "1.0",
+      "description": "Regram tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/Regram-beta-10.zip",
+      "selection": "Utilities",
+      "size": "6.99 MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "StopAds",
+      "version": "1.0",
+      "description": "StopAds tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/StopAds.dylib",
+      "selection": "Utilities",
+      "size": "856 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "TeraBox Premium",
+      "version": "1.0",
+      "description": "TeraBox Premium tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/TeraBoxPremium.dylib",
+      "selection": "Utilities",
+      "size": "129 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "TrueCaller",
+      "version": "1.0",
+      "description": "TrueCaller tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/TrueCaller.dylib",
+      "selection": "Utilities",
+      "size": "132 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Write Now",
+      "version": "1.0",
+      "description": "Write Now tweak for iOS devices.",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v3/WriteNow.dylib",
+      "selection": "Utilities",
+      "size": "1.62 MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Autoclicker",
+      "version": "1.0",
+      "description": "Auto-Clicker (might not work for every app)",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v2/Autoclicker.dylib",
+      "selection": "Utilities",
+      "size": "966 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Skip Ads",
+      "version": "1.0",
+      "description": "Get the rewards without watching an Ad!",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v2/SkipAds.dylib",
+      "selection": "Utilities",
+      "size": "146 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "BHTikTok Plus",
+      "version": "2.3",
+      "description": "BHTikTok Plus for TikTok v35.6.0",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v1/BHTikTokPlus_v2.3.zip",
+      "selection": "Utilities",
+      "size": "786 KB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "BHX",
+      "version": "v10.56",
+      "description": "BHX for Twitter / X",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v1/BHX_v10.56.zip",
+      "selection": "Utilities",
+      "size": "8.41 MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "FBWolf",
+      "version": "1.0",
+      "description": "FBWolf for Facebook v479.0",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v1/FBWolf.zip",
+      "selection": "Utilities",
+      "size": "3.83 MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "Regram",
+      "version": "v1.0 b10",
+      "description": "Regram for Instagram v345.3.3",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v1/IGRegram_v1.0b10.zip",
+      "selection": "Utilities",
+      "size": "3.43 MB",
+      "author": "",
+      "screenshots": []
+    },
+    {
+      "name": "uYouPlus",
+      "version": "3.0.4",
+      "description": "uYouPlus for YouTube v19.34.2",
+      "icon_url": "",
+      "dylib": "https://github.com/pisknk/TrollFools-Dylibs/releases/download/v1/uYouPlus_3.0.4.zip",
+      "selection": "Utilities",
+      "size": "15.2 MB",
+      "author": "",
+      "screenshots": []
+    }
+  ]
+}
